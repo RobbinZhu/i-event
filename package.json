@@ -1,0 +1,19 @@
+{
+  "name": "i-event",
+  "version": "1.0.0",
+  "description": "Simple way to resolve js async tasks",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RobbinZhu/i-event.git"
+  },
+  "keywords": [
+    "events"
+  ],
+  "author": "Robbin.Zhu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RobbinZhu/i-event/issues"
+  },
+  "homepage": "https://github.com/RobbinZhu/i-event"
+}
