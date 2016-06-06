@@ -1,0 +1,8 @@
+{
+  "name": "i-event",
+  "main": "index.js",
+  "description": "events",
+  "authors": ["robbin@59124.com>"],
+  "license": "MIT",
+  "ignore": []
+}
